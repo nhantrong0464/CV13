@@ -1,0 +1,165 @@
+# Danh sách trang CẦN OCR (trừ các trang không phải nội dung câu đối)
+# Mỗi dòng: tên file trong _pages_raw/
+# Trạng thái: HOÀN TẤT — đã rà toàn bộ 148 trang PDF.
+# Lưu ý: page-134.png là trang tiêu đề "CÁC LOẠI HOÀNH PHI", loại khỏi OCR.
+
+# ĐÃ XÁC NHẬN LOẠI TRỪ (không OCR):
+# page-001.png  - bìa
+# page-002.png  - trang tên sách
+# page-003.png  - lời nói đầu (p5)
+# page-004.png  - lời nói đầu (p6)
+# page-005.png  - thuyết minh cách trình bày (p7)
+# page-006.png  - thuyết minh cách trình bày (p8)
+# page-007.png  - tiêu đề mục "CÁC LOẠI CÂU ĐỐI" (p9), không có cặp cụ thể
+# page-013.png  - TRÙNG LẶP với page-011.png (nội dung in trang 13)
+# page-014.png  - TRÙNG LẶP với page-012.png (nội dung in trang 14)
+
+# CẦN OCR (trang in 10-35, trừ các trang loại ở trên):
+page-008.png
+page-009.png
+page-010.png
+page-011.png
+page-012.png
+page-015.png
+page-016.png
+page-017.png
+page-018.png
+page-019.png
+page-020.png
+page-021.png
+page-022.png
+page-023.png
+page-024.png
+page-025.png
+page-026.png
+page-027.png
+page-028.png
+page-029.png
+page-030.png
+page-031.png
+page-032.png
+page-033.png
+page-034.png
+page-035.png
+# (không có trang loại trừ nào trong khoảng 36-55: không có bìa/tiêu đề mục thuần/trang trùng.
+#  page-037.png có khả năng là trang Nôm -- vẫn giữ trong danh sách OCR vì chưa chắc chắn, xem ghi_chu_khong_chac_chan.md mục 10)
+page-036.png
+page-037.png
+page-038.png
+page-039.png
+page-040.png
+page-041.png
+page-042.png
+page-043.png
+page-044.png
+page-045.png
+page-046.png
+page-047.png
+page-048.png
+page-049.png
+page-050.png
+page-051.png
+page-052.png
+page-053.png
+page-054.png
+page-055.png
+# (56-75: không có trang loại trừ nào -- tất cả đều có nội dung câu đối thật, kể cả trang Nôm
+#  vẫn giữ trong danh sách OCR vì cần OCR bằng kimhannom chế độ Nôm, chỉ không dùng cho draft_pairs.tsv)
+page-056.png
+page-057.png
+page-058.png
+page-059.png
+page-060.png
+page-061.png
+page-062.png
+page-063.png
+page-064.png
+page-065.png
+page-066.png
+page-067.png
+page-068.png
+page-069.png
+page-070.png
+page-071.png
+page-072.png
+page-073.png
+page-074.png
+page-075.png
+# (76-95: không có trang loại trừ nào -- tất cả có nội dung câu đối thật)
+page-076.png
+page-077.png
+page-078.png
+page-079.png
+page-080.png
+page-081.png
+page-082.png
+page-083.png
+page-084.png
+page-085.png
+page-086.png
+page-087.png
+page-088.png
+page-089.png
+page-090.png
+page-091.png
+page-092.png
+page-093.png
+page-094.png
+page-095.png
+# (96-115: tất cả có nội dung câu đối thật, kể cả 107-108 dù không đưa vào draft_pairs.tsv)
+page-096.png
+page-097.png
+page-098.png
+page-099.png
+page-100.png
+page-101.png
+page-102.png
+page-103.png
+page-104.png
+page-105.png
+page-106.png
+page-107.png
+page-108.png
+page-109.png
+page-110.png
+page-111.png
+page-112.png
+page-113.png
+page-114.png
+page-115.png
+# (116-135: loại duy nhất page-134.png - trang tiêu đề; còn lại đều có nội dung thật)
+page-116.png
+page-117.png
+page-118.png
+page-119.png
+page-120.png
+page-121.png
+page-122.png
+page-123.png
+page-124.png
+page-125.png
+page-126.png
+page-127.png
+page-128.png
+page-129.png
+page-130.png
+page-131.png
+page-132.png
+page-133.png
+page-135.png
+# (136-145: hoành phi, nội dung thật; 146 không rõ có tồn tại riêng hay không, xem ghi_chu_khong_chac_chan.md mục 30)
+page-136.png
+page-137.png
+page-138.png
+page-139.png
+page-140.png
+page-141.png
+page-142.png
+page-143.png
+page-144.png
+page-145.png
+
+# LOẠI TRỪ (không OCR) - phát hiện thêm ở đợt cuối:
+# page-147.png - Mục lục
+# page-148.png - thông tin xuất bản (colophon)
+# trang bìa phụ cuối cùng (không đánh số) - bìa "MẪU HOÀNH PHI CÂU ĐỐI THƯỜNG DÙNG"
